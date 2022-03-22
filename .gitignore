@@ -1,0 +1,3 @@
+3rdparty/*
+!3rdparty/Makefile
+!3rdparty/make_*.mk
